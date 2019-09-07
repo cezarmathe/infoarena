@@ -1,6 +1,6 @@
 #!/usr/bin/env/bash
 
-apt install git docker.io docker-compose ranger vim make tmux
+apt install git docker.io docker-compose ranger vim make tmux nginx
 
 systemctl enable --now docker
 
